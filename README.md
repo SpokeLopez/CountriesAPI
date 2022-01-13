@@ -8,7 +8,7 @@ Proyecto de frontendmentor para el uso de api y diseño.
 
 ### Ejecutando
 
-* [Clonar el repositorio](https://github.com/SpokeLopez/theaudiodb-api.git)
+* [Clonar el repositorio](https://github.com/SpokeLopez/CountriesAPI.git
 * Ejecutar un servidor local y abrir web
 
 ## Recursos externos
